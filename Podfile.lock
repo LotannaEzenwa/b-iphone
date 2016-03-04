@@ -1,0 +1,16 @@
+PODS:
+  - CorePlot (2.0)
+  - FDKeychain (1.2.2)
+  - FLAnimatedImage (1.0.8)
+
+DEPENDENCIES:
+  - CorePlot (= 2.0)
+  - FDKeychain (~> 1.2)
+  - FLAnimatedImage (~> 1.0)
+
+SPEC CHECKSUMS:
+  CorePlot: b7f422ad363f2b0e48152471d6da45ce232eb8c6
+  FDKeychain: ce0d5e4fac972c28e921e893ffe982832695d17b
+  FLAnimatedImage: f9422f796135aff80d8c00b2afc48015bb746e24
+
+COCOAPODS: 0.39.0

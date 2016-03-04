@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>167CC712-EC99-4F7C-B61B-4FC55C889A10</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Boredat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67f69771-1fcf-464e-a1e6-2f51f4ba5e73</key>
+		<string>https://boredat.svn.beanstalkapp.com/b-for-iphone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Boredat.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67f69771-1fcf-464e-a1e6-2f51f4ba5e73</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67f69771-1fcf-464e-a1e6-2f51f4ba5e73</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67f69771-1fcf-464e-a1e6-2f51f4ba5e73</string>
+			<key>IDESourceControlWCCName</key>
+			<string>b-for-iphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "764BA46CCC0D6CDE8EFB99047CEC5E9C3A3D6F33",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "67f69771-1fcf-464e-a1e6-2f51f4ba5e73" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "764BA46CCC0D6CDE8EFB99047CEC5E9C3A3D6F33" : 0,
+    "67f69771-1fcf-464e-a1e6-2f51f4ba5e73" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "167CC712-EC99-4F7C-B61B-4FC55C889A10",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "764BA46CCC0D6CDE8EFB99047CEC5E9C3A3D6F33" : "b-iphone\/",
+    "67f69771-1fcf-464e-a1e6-2f51f4ba5e73" : "b-for-iphone"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Boredat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Boredat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/boredat.svn.beanstalkapp.com\/b-for-iphone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67f69771-1fcf-464e-a1e6-2f51f4ba5e73"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:boardat\/b-iphone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "764BA46CCC0D6CDE8EFB99047CEC5E9C3A3D6F33"
+    }
+  ]
+}
